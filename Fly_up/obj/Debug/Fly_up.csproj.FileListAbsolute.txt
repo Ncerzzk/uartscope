@@ -1,0 +1,10 @@
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\bin\Debug\Fly_up.exe.config
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\bin\Debug\Fly_up.exe
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\bin\Debug\Fly_up.pdb
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.csprojResolveAssemblyReference.cache
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.Form1.resources
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.Properties.Resources.resources
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.csproj.GenerateResource.Cache
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.exe
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.pdb
+C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.Form_Edit_Command.resources
