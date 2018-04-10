@@ -8,3 +8,13 @@ C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.csproj.G
 C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.exe
 C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.pdb
 C:\Users\ncer\Desktop\飞行器上位机\Fly_up\Fly_up\obj\Debug\Fly_up.Form_Edit_Command.resources
+D:\电路板\uartscope\Fly_up\bin\Debug\Fly_up.exe.config
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.exe
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.pdb
+D:\电路板\uartscope\Fly_up\bin\Debug\Fly_up.exe
+D:\电路板\uartscope\Fly_up\bin\Debug\Fly_up.pdb
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.csprojResolveAssemblyReference.cache
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.Form1.resources
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.Form_Edit_Command.resources
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.Properties.Resources.resources
+D:\电路板\uartscope\Fly_up\obj\Debug\Fly_up.csproj.GenerateResource.Cache
